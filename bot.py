@@ -6,8 +6,8 @@ if __name__ == "__main__":
 	
 	provera = int(input('Za main 1, a alt 0: '))
 	if provera == 1:
-		username = 'boskovski650@gmail.com'
-		password = 'ivanbrate2'
+		username = ''
+		password = ''
 	else:
 		username = ''
 		password = ''
